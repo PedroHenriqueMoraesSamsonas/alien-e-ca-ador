@@ -1,0 +1,43 @@
+<style>
+	
+		
+		button{
+			background-color: yellow;
+		}
+		
+		.espaco{	
+		
+			margin-left: 5%;
+		}
+				
+		.porco {
+			
+			/* The image used */
+			  background-image: url("imagens/game3.jpg");
+
+			  /* Set a specific height */
+			  min-height: 500px; 
+
+			  /* Create the parallax scrolling effect */
+			  background-attachment: fixed;
+			  background-position: center;
+			  background-repeat: no-repeat;
+			  background-size: cover;
+		}
+		
+        .estilo
+            {
+                border: 4px solid #000;
+            }
+
+            .texto
+            {
+                background-color: #98FB98; 
+                font-size: 40px; 
+                color: black; 
+                width: 235px; 
+                height: 60px;
+                text-align: right;		
+            }
+	
+</style>
